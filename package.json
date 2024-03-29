@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.0.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "name": "code-notes",
+  "description": "代码笔记",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewc/code-notes.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "codewc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewc/code-notes/issues"
+  },
+  "homepage": "https://github.com/codewc/code-notes#readme"
+}
